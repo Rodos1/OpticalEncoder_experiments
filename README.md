@@ -1,27 +1,52 @@
-![интенс удаление сравнение](https://github.com/user-attachments/assets/46558659-4924-4a6a-a1f1-56ce527c58d8)
+Для этой картинки рассчитаем видность и интенсивность (источник далеко):
 
-![интенс упор сравнение](https://github.com/user-attachments/assets/ff0fed36-ce47-4b60-9fe1-e35d49c98505)
+![image1](https://github.com/user-attachments/assets/5d2a46e9-cc4d-4f1e-8798-ddce7f852467)
 
-Для интерференционной картины в удалении:
+Интенсивность, нормированная на максимум (все значения интенсивности поделены на максимальное значение интенсивности):
 
-![image1](https://github.com/user-attachments/assets/6816e9dc-3357-4028-9363-d6249daefd2d)
+![интенс удаление финал](https://github.com/user-attachments/assets/36850077-70e8-4755-8a18-940da6292b79)
 
-Поссчитаем видность от координаты, взяв сегменты по 10 пикселей:
+Видность (здесь и в дальнейшем каждая точка - это среднее значение координаты между соседними минимумом и максимумом):
 
-![Видность удаление](https://github.com/user-attachments/assets/02fd5c3f-002a-444e-a9ff-f6bc27d4ea51)
+![видность удаление финал](https://github.com/user-attachments/assets/2408032f-a4b2-4b56-b818-fbf639d38be1)
 
-Для интерференционной картины в упоре:
+Для этой картинки рассчитаем видность и интенсивность (источник близко):
 
-![image2](https://github.com/user-attachments/assets/adf37e1b-9960-41f3-8c83-d5a092d2af9b)
+![image2](https://github.com/user-attachments/assets/9c95d844-a048-4191-bf5a-47b5c14c9b04)
 
-Поссчитаем видность от координаты, взяв сегменты по 10 пикселей:
+Интенсивность, нормированная на максимум (все значения интенсивности поделены на максимальное значение интенсивности):
 
-![видность упор](https://github.com/user-attachments/assets/642c5707-bdd5-4b8e-8cca-6e02d9542972)
+![интенс упор финал](https://github.com/user-attachments/assets/2ac5b1ff-8104-4796-a149-da525a277cfa)
 
-Для вот этой (теоретической) картинки:
+Видность:
 
-![image3](https://github.com/user-attachments/assets/4260394c-2158-48ed-9a0d-72472e42c88b)
+![видность упор финал](https://github.com/user-attachments/assets/61721820-b98c-45fa-88fa-ffc3a1a24db0)
 
-Поссчитаем видность от координаты, взяв сегменты по 2 пикселя
+Теоретическая картинка:
 
-![real эксп видность от координаты](https://github.com/user-attachments/assets/73f1095c-ce8a-4ace-9656-a6ba49f8abc2)
+![image4](https://github.com/user-attachments/assets/f6c2fb9e-62c2-44aa-989e-f44e15f0d958)
+
+Интенсивность теор. картинки:
+
+![теория интенсивность](https://github.com/user-attachments/assets/84210a93-528e-4fd4-8f4c-ae715b2a2540)
+
+Видность теор. картинки:
+
+![теория видность](https://github.com/user-attachments/assets/110a1771-d997-4f6d-b090-57ecd9839315)
+
+
+Сравним картинки до и после удаления шума:
+
+![интенс упор сравнение](https://github.com/user-attachments/assets/b173038d-540b-4da1-b2a8-93187db6e752)
+
+![интенс удаление сравнение](https://github.com/user-attachments/assets/a5e69ec2-6cf9-4598-ba71-cfa8dd92a754)
+
+сравнение при близ
+
+![видность сравнение упор](https://github.com/user-attachments/assets/ae75b2e8-284d-4f59-bb79-c20e153a71c3)
+
+![видность сравнение удаление](https://github.com/user-attachments/assets/0e7526b3-0da6-4c02-a78b-1ec4d6f773f7)
+
+
+
+

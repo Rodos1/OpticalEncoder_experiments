@@ -1,52 +1,32 @@
-Для этой картинки рассчитаем видность и интенсивность (источник далеко):
-
-![image1](https://github.com/user-attachments/assets/5d2a46e9-cc4d-4f1e-8798-ddce7f852467)
-
-Интенсивность, нормированная на максимум (все значения интенсивности поделены на максимальное значение интенсивности):
-
-![интенс удаление финал](https://github.com/user-attachments/assets/36850077-70e8-4755-8a18-940da6292b79)
-
-Видность (здесь и в дальнейшем каждая точка - это среднее значение координаты между соседними минимумом и максимумом):
-
-![видность удаление финал](https://github.com/user-attachments/assets/2408032f-a4b2-4b56-b818-fbf639d38be1)
-
-Для этой картинки рассчитаем видность и интенсивность (источник близко):
-
-![image2](https://github.com/user-attachments/assets/9c95d844-a048-4191-bf5a-47b5c14c9b04)
-
-Интенсивность, нормированная на максимум (все значения интенсивности поделены на максимальное значение интенсивности):
-
-![интенс упор финал](https://github.com/user-attachments/assets/2ac5b1ff-8104-4796-a149-da525a277cfa)
-
-Видность:
-
-![видность упор финал](https://github.com/user-attachments/assets/61721820-b98c-45fa-88fa-ffc3a1a24db0)
-
-Теоретическая картинка:
-
-![image4](https://github.com/user-attachments/assets/f6c2fb9e-62c2-44aa-989e-f44e15f0d958)
-
-Интенсивность теор. картинки:
-
-![теория интенсивность](https://github.com/user-attachments/assets/84210a93-528e-4fd4-8f4c-ae715b2a2540)
-
-Видность теор. картинки:
-
-![теория видность](https://github.com/user-attachments/assets/110a1771-d997-4f6d-b090-57ecd9839315)
-
-
-Сравним картинки до и после удаления шума:
-
-![интенс упор сравнение](https://github.com/user-attachments/assets/b173038d-540b-4da1-b2a8-93187db6e752)
-
-![интенс удаление сравнение](https://github.com/user-attachments/assets/a5e69ec2-6cf9-4598-ba71-cfa8dd92a754)
-
-сравнение при близ
-
-![видность сравнение упор](https://github.com/user-attachments/assets/ae75b2e8-284d-4f59-bb79-c20e153a71c3)
-
-![видность сравнение удаление](https://github.com/user-attachments/assets/0e7526b3-0da6-4c02-a78b-1ec4d6f773f7)
+![Figure_1](https://github.com/user-attachments/assets/e3c7a39b-4f49-4cda-87de-080b46aab5d2)
+![Figure_2_1](https://github.com/user-attachments/assets/39b97f81-a61b-4d11-ba73-dc0ee024d243)
+![Figure_2_2](https://github.com/user-attachments/assets/b8e22f1e-085e-41c3-a1ab-35c9ce57897e)
 
 
 
+![видность интегральное сравнение final](https://github.com/user-attachments/assets/e228023c-ab61-4fa6-a2dd-850a96a351aa)
+![видность максимальное сравнение final](https://github.com/user-attachments/assets/cf4ed30a-38c1-4c82-8c89-96270ba7de91)
 
+
+
+использованные исходники:
+
+источник в упор
+
+![UPTK](https://github.com/user-attachments/assets/ad031a99-4c34-4f40-874d-bd3bfcbf6239)
+
+обрезанная:
+
+![image2](https://github.com/user-attachments/assets/d58eeff6-bbb2-4ce3-9655-b2d9876ca56e)
+
+удаление (источник поодаль)
+
+![UTK](https://github.com/user-attachments/assets/6bd58738-43b1-4f84-9c0a-4c408c4c3008)
+
+обрезанная:
+
+![image1](https://github.com/user-attachments/assets/056cbe53-67da-4377-92e5-c28beeeea3e5)
+
+теория:
+
+![theor](https://github.com/user-attachments/assets/01e35174-2d9e-489f-a363-e34775fcbfd5)

@@ -1,5 +1,13 @@
 import numpy as np
 from scipy.interpolate import CubicSpline
+import cairosvg
+import cv2
+
+
+def svg_to_png(image):
+    cairosvg.svg2png(url=image, write_to='image.png')
+    image2 = cv2.imread('image.png')
+    return image2
 
 # Функция для расчета интенсивности "грязи"
 def intensdirt_calc(gray_im):
@@ -37,7 +45,7 @@ def visability_calc(clean_smooth, minimumy, maximumy):
         mid_x = (maximumy[i_max] + minimumy[i_min]) / 2
         x_visibility.append(mid_x)
 
-        print(f'Imax = {I_max}, Imin = {I_min}, V = {V}')
+        # print(f'Imax = {I_max}, Imin = {I_min}, V = {V}')
 
         # Обновляем индексы
         if minimumy[i_min] < maximumy[i_max]:

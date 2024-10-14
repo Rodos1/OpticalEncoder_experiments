@@ -1,31 +1,23 @@
-![Figure_1](https://github.com/user-attachments/assets/e3c7a39b-4f49-4cda-87de-080b46aab5d2)
-![Figure_2_1](https://github.com/user-attachments/assets/39b97f81-a61b-4d11-ba73-dc0ee024d243)
-![Figure_2_2](https://github.com/user-attachments/assets/b8e22f1e-085e-41c3-a1ab-35c9ce57897e)
+В ОТЛИЧИЕ ОТ ПРЕД. ГРАФИКОВ СГЛАЖИВАНИЕ ТЕОРЕТИЧЕСКОЙ ИНТЕНСИВНОСТИ НЕ ПРОВОДИЛОСЬ
 
 
+1-ая НОРМИРОВКА
+![НОВЫЙ ЭКСПЕРИМЕНТ ИНТЕНС](https://github.com/user-attachments/assets/63af72d8-db57-475d-96f2-10329fb744be)
+![НОВЫЙ ЭКСПЕРИМЕНТ ИНТЕНС 2](https://github.com/user-attachments/assets/55aa327a-e21f-4b62-ba76-0b2c009b9dea)
 
-![видность интегральное сравнение final](https://github.com/user-attachments/assets/e228023c-ab61-4fa6-a2dd-850a96a351aa)
-![видность максимальное сравнение final](https://github.com/user-attachments/assets/cf4ed30a-38c1-4c82-8c89-96270ba7de91)
 
+2-ая НОРМИРОВКА
+![НОВЫЙ ЭКСПЕРИМЕНТ ВИДИМОСТЬ](https://github.com/user-attachments/assets/91dfc579-bc7a-43ed-ad5a-572be5c23c5d)
+![НОВЫЙ ЭКСПЕРИМЕНТ ВИДИМОСТЬ 2](https://github.com/user-attachments/assets/dd6d4d02-c664-4b6e-a869-605031179d0a)
 
 
 использованные исходники:
 
-источник в упор
-
-![UPTK](https://github.com/user-attachments/assets/ad031a99-4c34-4f40-874d-bd3bfcbf6239)
+![isl](https://github.com/user-attachments/assets/ac85a385-eac7-4f89-9ce2-d3da4071ceae)
 
 обрезанная:
 
-![image2](https://github.com/user-attachments/assets/d58eeff6-bbb2-4ce3-9655-b2d9876ca56e)
-
-удаление (источник поодаль)
-
-![UTK](https://github.com/user-attachments/assets/6bd58738-43b1-4f84-9c0a-4c408c4c3008)
-
-обрезанная:
-
-![image1](https://github.com/user-attachments/assets/056cbe53-67da-4377-92e5-c28beeeea3e5)
+![new](https://github.com/user-attachments/assets/676c5bd1-1385-49c4-a9ef-8171bac11797)
 
 теория:
 
